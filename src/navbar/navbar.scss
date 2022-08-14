@@ -1,0 +1,11 @@
+.Navbar{
+    position: relative;
+    display:flex;
+    width: 100%;
+    ul > li{
+        color: #fff !important;
+        &:hover{
+            color: black !important;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.Navbar {
+  position: relative;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.Navbar ul > li {
+  color: #fff !important;
+}
+
+.Navbar ul > li:hover {
+  color: black !important;
+}
+/*# sourceMappingURL=navbar.css.map */
